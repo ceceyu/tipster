@@ -22,6 +22,7 @@ I didn't have time to do everything, but I'd like to try later. Here's a GIF wal
 
 <img src="http://cece.is/codepath/tipster/Demo2.gif">
 
+(Launching from the home screen)
 <img src="http://cece.is/codepath/tipster/Demo4.gif">
 
 
