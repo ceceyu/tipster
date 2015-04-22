@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DCD76DD4-5497-4BA7-8CFF-0D14D7E5DF8F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Tipster</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>613BA684703A79CCC44599F6B8BA52C01204C056</key>
+		<string>https://github.com/ceceyu/tipster.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tipster.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>613BA684703A79CCC44599F6B8BA52C01204C056</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ceceyu/tipster.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>613BA684703A79CCC44599F6B8BA52C01204C056</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>613BA684703A79CCC44599F6B8BA52C01204C056</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Tipster</string>
+		</dict>
+	</array>
+</dict>
+</plist>

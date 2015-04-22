@@ -12,6 +12,7 @@
 		8852F04F1ADBC65700C9CFD9 /* TIP@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8852F04C1ADBC65700C9CFD9 /* TIP@2x.png */; };
 		8852F0501ADBC65700C9CFD9 /* TOTAL@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8852F04D1ADBC65700C9CFD9 /* TOTAL@2x.png */; };
 		8852F0521ADBCEC000C9CFD9 /* loading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8852F0511ADBCEC000C9CFD9 /* loading@2x.png */; };
+		8852F0541AE4CD1D00C9CFD9 /* VarelaRound-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8852F0531AE4CD1D00C9CFD9 /* VarelaRound-Regular.otf */; };
 		8898134F1ADBAB2900EF3502 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898134E1ADBAB2900EF3502 /* AppDelegate.swift */; };
 		889813511ADBAB2900EF3502 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 889813501ADBAB2900EF3502 /* ViewController.swift */; };
 		889813541ADBAB2900EF3502 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 889813521ADBAB2900EF3502 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 		8852F04C1ADBC65700C9CFD9 /* TIP@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "TIP@2x.png"; path = "../../assets/TIP@2x.png"; sourceTree = "<group>"; };
 		8852F04D1ADBC65700C9CFD9 /* TOTAL@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "TOTAL@2x.png"; path = "../../assets/TOTAL@2x.png"; sourceTree = "<group>"; };
 		8852F0511ADBCEC000C9CFD9 /* loading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "loading@2x.png"; path = "../../assets/loading@2x.png"; sourceTree = "<group>"; };
+		8852F0531AE4CD1D00C9CFD9 /* VarelaRound-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "VarelaRound-Regular.otf"; sourceTree = "<group>"; };
 		889813491ADBAB2900EF3502 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8898134D1ADBAB2900EF3502 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8898134E1ADBAB2900EF3502 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8852F0551AE4CFE400C9CFD9 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8852F0531AE4CD1D00C9CFD9 /* VarelaRound-Regular.otf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		889813401ADBAB2900EF3502 = {
 			isa = PBXGroup;
 			children = (
@@ -105,6 +115,7 @@
 		8898134C1ADBAB2900EF3502 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8852F0551AE4CFE400C9CFD9 /* Fonts */,
 				8898134D1ADBAB2900EF3502 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -210,6 +221,7 @@
 			files = (
 				8852F0521ADBCEC000C9CFD9 /* loading@2x.png in Resources */,
 				889813541ADBAB2900EF3502 /* Main.storyboard in Resources */,
+				8852F0541AE4CD1D00C9CFD9 /* VarelaRound-Regular.otf in Resources */,
 				889813591ADBAB2900EF3502 /* LaunchScreen.xib in Resources */,
 				8852F04A1ADBC58000C9CFD9 /* Line@2x.png in Resources */,
 				8852F04F1ADBC65700C9CFD9 /* TIP@2x.png in Resources */,
