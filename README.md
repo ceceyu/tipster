@@ -32,7 +32,7 @@ And then launching from the home screen:
 
 Updated the UI to include custom font, more design elements, and slider. Got help with a bunch of funny stuff like showing the slider value and making the bill field have a "$" in front of it by default, as users type in, though it doesn't work exactly like I wanted it to. 
 
-<img src="http://cece.is/codepath/tipster/Demo4.gif">
+<img src="http://cece.is/codepath/tipster/Demo5.gif">
 
 With more time, would have implemented the custom keyboard and a fancier slider.
 
